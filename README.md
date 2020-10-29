@@ -27,6 +27,9 @@
 
 
 ### Materiales complementarios
-- [![Notebook Sesión 2]("https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white")](https://colab.research.google.com/drive/1z7OqJTUcwiVeAxDmf_Hefz4rmLdwZKGc?usp=sharing)
+* [![Notebook Sesión 2]("https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white")(https://colab.research.google.com/drive/1z7OqJTUcwiVeAxDmf_Hefz4rmLdwZKGc?usp=sharing)
+* [Escuela de Aprendizaje Profundo aplicado a las Tecnologías del Lenguaje Primera sesión](https://www.youtube.com/watch?v=DI_MYeO9ebc)
+* [Escuela de Aprendizaje Profundo aplicado a las Tecnologías del Lenguaje Segunda Sesión](https://www.youtube.com/watch?v=8wUVJRm8DX0)
+
 
 
